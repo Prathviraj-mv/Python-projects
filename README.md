@@ -1,2 +1,4 @@
 # Python projects
-Mini python projects to make daily life easier , simple scripts and useful tools
+Python projects to make daily life easier , Scripts and useful tools
+
+#
