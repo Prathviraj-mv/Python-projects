@@ -5,5 +5,5 @@
 # Screenshot
 
 <p>
-  <img width=50% src="rck.png">
+  <img width=80% src="rck.png">
 </p>
