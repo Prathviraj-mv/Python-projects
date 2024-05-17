@@ -21,6 +21,8 @@ morse code
 
 nato phonetics
 
+dictionary python library
+
 password generator
 
 phone number details
