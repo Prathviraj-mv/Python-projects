@@ -1,7 +1,7 @@
 # 15 intermediate and basic Python projects
 
 <li>
-PROJECTS:
+PROJECTS:</br>
 Calculator-using-python<br>
 Dice roller using tkinter gui</br>
 ISS-position-using-folium</br>
