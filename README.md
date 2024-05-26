@@ -1,7 +1,8 @@
-# Python projects
+# 15 intermediate and basic Python projects
 
 <li>
-Calculator-using-python
+PROJECTS:
+Calculator-using-python<br>
 Dice roller using tkinter gui</br>
 ISS-position-using-folium</br>
 NASA api astronomy picture of the day</br>
