@@ -2,17 +2,17 @@
 
 
 Calculator-using-python</br>
-Dice roller using tkinter gui
-ISS-position-using-folium
-NASA api astronomy picture of the day
-QR code generator with tkinter
-Song from YouTube video downloader
-Tic-Tac-Toe-python
-Wikipedia-text-to-speech-using-python
-morse code
-nato phonetics
-dictionary python library
-password generator
-phone number details
-stone paper scissors
-cipher text encryption and decryption
+Dice roller using tkinter gui</br>
+ISS-position-using-folium</br>
+NASA api astronomy picture of the day</br>
+QR code generator with tkinter</br>
+Song from YouTube video downloader</br>
+Tic-Tac-Toe-python</br>
+Wikipedia-text-to-speech-using-python</br>
+morse code</br>
+nato phonetics</br>
+dictionary python library</br>
+password generator</br>
+phone number details</br>
+stone paper scissors</br>
+cipher text encryption and decryption</br>
