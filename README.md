@@ -1,6 +1,6 @@
 # Python projects
 
-<li>
+<ul>
 Calculator-using-python</br>
 Dice roller using tkinter gui</br>
 ISS-position-using-folium</br>
@@ -16,4 +16,4 @@ password generator</br>
 phone number details</br>
 stone paper scissors</br>
 cipher text encryption and decryption</br>
-</li>
+</ul>
