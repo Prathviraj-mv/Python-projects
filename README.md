@@ -1,7 +1,7 @@
 # Python projects
 
-<ul>
-Calculator-using-python</br>
+<li>
+Calculator-using-python
 Dice roller using tkinter gui</br>
 ISS-position-using-folium</br>
 NASA api astronomy picture of the day</br>
@@ -16,4 +16,4 @@ password generator</br>
 phone number details</br>
 stone paper scissors</br>
 cipher text encryption and decryption</br>
-</ul>
+</li>
