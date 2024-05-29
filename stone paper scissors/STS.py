@@ -71,4 +71,4 @@ while game_is_on:
 
     if player_choice == computer_choice:
         print("DRAW")
-    print(f"            {winner} ")
+    print(f"{winner} ")
