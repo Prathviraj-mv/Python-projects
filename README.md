@@ -17,4 +17,5 @@ password generator</br>
 phone number details</br>
 stone paper scissors</br>
 cipher text encryption and decryption</br>
+number guessing</br>
 </li>
