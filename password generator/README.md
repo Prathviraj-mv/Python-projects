@@ -1,2 +1,2 @@
 # password-generator
-simple python program to generate password using python by using random module
+Simple python program to generate password using python by using random module
