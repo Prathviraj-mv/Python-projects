@@ -19,7 +19,7 @@ while game_is_on:
         print("UR BEHIND THE NUMBER")
     if user_input == number:
         print(f'u guessed it the number is  {number} ')
-
+        game_is_on = False
     chance_used +=1
     print(f"chance_used = {chance_used} ")
 
