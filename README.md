@@ -18,5 +18,6 @@ phone number details</br>
 stone paper scissors</br>
 cipher text encryption and decryption</br>
 number guessing</br>
-spirograph using turtle lib </br>
+spirograph using turtle library</br>
+clock app</br>
 </li>
