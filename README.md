@@ -22,4 +22,6 @@ spirograph using turtle library</br>
 clock app</br>
 hangman</br>
 rgb</br>
+chrome dino game</br>
+weather app</br>
 </li>
