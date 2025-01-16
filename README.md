@@ -1,4 +1,4 @@
-# 18 intermediate and basic Python projects
+# 25 intermediate and basic Python projects
 
 <li>
 PROJECTS:</br>
